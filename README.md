@@ -7,6 +7,7 @@ The players take turns clicking on the buttons to place their X or O.
 The game state is stored in a 2D list called board and is updated each time a player makes a move. 
 The game checks for a win or a tie after each move.
 
+To run: ensure you install PySimpleGUI with the following command: pip install pysimplegui
 
 <img width="314" alt="image" src="https://user-images.githubusercontent.com/88297517/214177371-f265443e-020c-4e1e-ab8e-be1fe8198011.png">
 
